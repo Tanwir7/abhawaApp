@@ -17,11 +17,11 @@ Download/Clone the repo. Then perform the following:
 >npm start
 
 ```
-
 Run from browser using local server: localhost:8080
 
 # Other
 Currently in production mode.
+Ignore warnings shown.
 Bug fixes/ suggestions are a welcome.
 
 
