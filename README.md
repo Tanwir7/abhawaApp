@@ -20,7 +20,7 @@ Download/Clone the repo. Go to project directory and then perform the following 
 Run from browser using local server: localhost:8080
 
 # Other
-Currently in production mode.
+Currently in development mode.
 Ignore warnings shown.
 Bug fixes/ suggestions are a welcome.
 
