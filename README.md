@@ -7,8 +7,8 @@ Powered by OpenWeather API
 
 # Description
 Get 5 day weather forecast!
-Get illustrative trends for every 3 hours
-Minimal UI
+Get illustrative trends for every 3 hours.
+Minimal UI.
 
 # How to use
 Download/Clone the repo. Go to project directory and then perform the following commands:
