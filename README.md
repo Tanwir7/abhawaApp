@@ -11,7 +11,7 @@ Get illustrative trends for every 3 hours
 Minimal UI
 
 # How to use
-Download/Clone the repo. Then perform the following:
+Download/Clone the repo. Go to project directory and then perform the following commands:
 ```
 >npm install
 >npm start
