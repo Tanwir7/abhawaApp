@@ -1,5 +1,5 @@
 # abhawaApp
-ABHAWA Weather App
+ABHAWA Weather App (Beta)
 
 # Hosted on Heroku
 abhawa.herokuapp.com
