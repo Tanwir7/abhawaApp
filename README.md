@@ -1,6 +1,9 @@
 # abhawaApp
 ABHAWA Weather App
 
+# Hosted on Heroku
+www.abhawa.herokuapp.com
+
 # Development
 Built Using React and Redux
 Powered by OpenWeather API
@@ -20,7 +23,7 @@ Download/Clone the repo. Go to project directory and then perform the following 
 Run from browser using local server: localhost:8080
 
 # Other
-Currently in development mode.
+Project Currently in development mode.
 Ignore warnings shown.
 Bug fixes/ suggestions are a welcome.
 
