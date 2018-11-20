@@ -2,7 +2,7 @@
 ABHAWA Weather App
 
 # Hosted on Heroku
-www.abhawa.herokuapp.com
+abhawa.herokuapp.com
 
 # Development
 Built Using React and Redux
